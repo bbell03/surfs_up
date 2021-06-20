@@ -1,5 +1,4 @@
 # Surfs_Up
-Brandon
 
 ## Analysis
 
