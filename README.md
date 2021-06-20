@@ -23,5 +23,7 @@ surf shop open year round for all of those winter surfers and tourists in sunny 
 ### Queries Used
 (Query June Weather)
 - session.query(Measurement.tobs).filter(extract('month', Measurement.date)==6).all()
+
+
 (Query December Weather)
 - session.query(Measurement.tobs).filter(extract('month', Measurement.date)==12).all()
