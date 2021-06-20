@@ -5,7 +5,8 @@ Brandon
 
 This is an analysis of temperatures in Oahu, HI to determine whether 
 W. Avy's ice cream and surf shop can sustain itself all year.
-
+![alt text](./fig1.png)
+![alt text](./fig2.png)
 
 - Temperatures are on average higher in June when compared to December by about 4 degrees 
 - Temperatures in June tend to vary less when compared to December by around .5 degrees.
